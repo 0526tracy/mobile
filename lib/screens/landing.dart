@@ -40,7 +40,9 @@ class LandingScreen extends StatelessWidget {
                         color: Colors.white,
                       ),
                     ),
-                    onPressed: () {},
+                    onPressed: () {
+                      Navigator.pushReplacementNamed(context, '/dashboard');
+                    },
                   ),
                 ],
               ),
