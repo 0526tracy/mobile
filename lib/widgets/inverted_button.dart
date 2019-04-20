@@ -19,7 +19,7 @@ class InvertedButton extends StatelessWidget {
       child: Text(
         title.toUpperCase(),
         textAlign: TextAlign.center,
-        style: TextStyle(
+        style: const TextStyle(
           fontWeight: FontWeight.bold,
         ),
       ),
