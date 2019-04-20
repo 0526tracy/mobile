@@ -1,5 +1,7 @@
 # budget_hub
 
+[![Build Status](https://travis-ci.org/budgethub/mobile.svg?branch=master)](https://travis-ci.org/budgethub/mobile)
+
 A new Flutter project.
 
 ## Getting Started
