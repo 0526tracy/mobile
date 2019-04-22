@@ -1,6 +1,7 @@
 # budget_hub
 
 [![Build Status](https://travis-ci.org/budgethub/mobile.svg?branch=master)](https://travis-ci.org/budgethub/mobile)
+[![Coverage Status](https://coveralls.io/repos/github/budgethub/mobile/badge.svg?branch=master)](https://coveralls.io/github/budgethub/mobile?branch=master)
 
 A new Flutter project.
 
